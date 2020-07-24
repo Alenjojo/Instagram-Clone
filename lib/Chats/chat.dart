@@ -10,8 +10,8 @@ class _ChatsState extends State<Chats> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Chats"),
-      ),
+          // title: Text("Chat"),
+          ),
     );
   }
 }
